@@ -51,5 +51,7 @@ Il faut aussi créer le onglets pour les sous programmes
 
 
 *
+Il faut aussi placer le fichier ´data´ comprennant les images
+
 ![Structure](https://user-images.githubusercontent.com/126287326/226419532-a313b098-029d-4b3d-a0c7-c04795191fd1.jpeg)
 
