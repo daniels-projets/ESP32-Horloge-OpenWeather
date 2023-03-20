@@ -8,10 +8,10 @@ Materiel requis.
 Sources d'inspiration
 
 Horloge analogique
-https://github.com/Bodmer/TFT_eSPI/blob/master/examples/320%20x%20240/TFT_Clock/TFT_Clock.ino
+ https://github.com/Bodmer/TFT_eSPI/blob/master/examples/320%20x%20240/TFT_Clock/TFT_Clock.ino
 
 Stockage images bmp dans SPITTF de Esp32
-https://github.com/Bodmer/TFT_eSPI/blob/master/examples/Generic/TFT_SPIFFS_BMP/TFT_SPIFFS_BMP.ino
+ https://github.com/Bodmer/TFT_eSPI/blob/master/examples/Generic/TFT_SPIFFS_BMP/TFT_SPIFFS_BMP.ino
 
 Base de connaissances pour datas de OpenWeatherMapCast
 https://github.com/ThingPulse/esp8266-weather-station/blob/master/examples/OpenWeatherMapCurrentDemo/OpenWeatherMapCurrentDemo.ino
