@@ -35,10 +35,18 @@ Lien officiel de telechargement du logiciel Gimp
 
  https://www.gimp.org/downloads/
  
+ 
+ 
 *
 ![Copie ecran](https://user-images.githubusercontent.com/126287326/226423286-7b93348f-e707-41e5-bc1a-96fcd28c66b2.jpg)
+
+
+
 *
 ![Esp32_HorlogeMeteo](https://user-images.githubusercontent.com/126287326/226418485-30eed734-c6a0-4089-883b-1fe460e52538.jpeg)
+
+
+
 *
 ![Structure](https://user-images.githubusercontent.com/126287326/226419532-a313b098-029d-4b3d-a0c7-c04795191fd1.jpeg)
 
