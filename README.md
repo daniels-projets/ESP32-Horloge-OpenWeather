@@ -43,6 +43,9 @@ Lien officiel de telechargement du logiciel Gimp
 
 
 *
+Il faut aussi créer le onglets pour les sous programmes
+(voir copie d´ecran)
+
 ![Esp32_HorlogeMeteo](https://user-images.githubusercontent.com/126287326/226418485-30eed734-c6a0-4089-883b-1fe460e52538.jpeg)
 
 
