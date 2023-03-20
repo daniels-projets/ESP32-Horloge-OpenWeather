@@ -65,8 +65,8 @@
 #include <WiFi.h>
 #include <WiFiMulti.h>
 #include <WiFiUdp.h>
-    const char *ssid     = "Bbox-Lux";
-    const char *password = "2427242711";
+    const char *ssid     = "@@@@@@@@@@";
+    const char *password = "@@@@@@@@@@";
           WiFiMulti WiFiMulti; 
       int TryNum = 0;
 
@@ -81,7 +81,7 @@ const int   daylightOffset_sec = 3600;
  
 //____________________________________________________________________________      
 #include <OpenWeatherOneCall.h>
-#define   ONECALLKEY "75779ae0cf6ebb8e370752f4943d709d"
+#define   ONECALLKEY "@@@@@@@@@@@@@@@@@@@@@@@@@@@@"
     float myLATITUDE = 48.4769;
     float myLONGITUDE = 7.67806;
 //      int myCITYID = 2857798;  
@@ -90,7 +90,7 @@ const int   daylightOffset_sec = 3600;
 //      int myEXCLUDES = EXCL_D+EXCL_H+EXCL_M+EXCL_A;
           OpenWeatherOneCall OWOC; 
       int oneCall = (15*60)*1000;// pour 15 minutes en microsecondes
-//      int oneCall = (3)*1000;// pour secondes en microsecondes
+//      int oneCall = (3)*1000;// pour secondes en microsecondes pour test
  unsigned long lastCall;
      bool firstCall = true;
      bool foreCast = false;
