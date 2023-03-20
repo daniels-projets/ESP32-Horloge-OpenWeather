@@ -5,6 +5,8 @@ Materiel requis.
   . Esp32 Dev Kit V4
   . Tft 3,5' Ili9488
   
+Pour le nom des icones, j´ai repris les noms d´origine d´OpenWeatherCast cependant quand les icones jour et nuit sont identiques je les ai nommé 'dn' au lieu de 'd' pour jour ou 'n' pour nuit.
+
 Sources d'inspiration/
 
 Horloge analogique
@@ -51,7 +53,7 @@ Il faut aussi créer le onglets pour les sous programmes
 
 
 *
-Il faut aussi placer le fichier ´data´ comprennant les images
+Il faut aussi placer le fichier ´data´ comprennant les images dans le dossier du projet
 
 ![Structure](https://user-images.githubusercontent.com/126287326/226419532-a313b098-029d-4b3d-a0c7-c04795191fd1.jpeg)
 
