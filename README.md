@@ -36,6 +36,6 @@ Lien officiel de telechargement du logiciel Gimp
  https://www.gimp.org/downloads/
 
 *
+![Esp32_HorlogeMeteo](https://user-images.githubusercontent.com/126287326/226418485-30eed734-c6a0-4089-883b-1fe460e52538.jpeg)
 
-<img width="1280" alt="Capture d’écran 2023-03-20 à 18 17 25" src="https://user-images.githubusercontent.com/126287326/226418223-d01a437a-bb40-43ef-bd8a-d193bf429076.png">
 
